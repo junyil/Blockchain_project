@@ -15,7 +15,7 @@ Ethereum CryptoStar Dapp is a smart contract that is used to register the star a
 - ERC-721 Token Name = ShibaInuStar
 - ERC-721 Token Symbol = SBS
 - Rinkeby Network has been deprecated by Infura.
-- truffle-hdwallet-provider has been deprecated by Infura.
+- truffle-hdwallet-provider has been deprecated by Truffle.
 
 ## Task 1
 
